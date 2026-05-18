@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- Main Page -->
+    <url>
+        <loc>https://marsians.info/</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://marsians.info/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://marsians.info/"/>
+    </url>
+
+    <!-- About Section -->
+    <url>
+        <loc>https://marsians.info/#about</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Philosophy Section -->
+    <url>
+        <loc>https://marsians.info/#philosophy</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Members Section -->
+    <url>
+        <loc>https://marsians.info/#members</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Events Page -->
+    <url>
+        <loc>https://marsians.info/events.html</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://marsians.info/events.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://marsians.info/events.html"/>
+    </url>
+
+    <!-- Geography Section -->
+    <url>
+        <loc>https://marsians.info/#geography</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Membership Section -->
+    <url>
+        <loc>https://marsians.info/#membership</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Memorial Page -->
+    <url>
+        <loc>https://marsians.info/memorial.html</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://marsians.info/memorial.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://marsians.info/memorial.html"/>
+    </url>
+
+    <!-- Contact Section -->
+    <url>
+        <loc>https://marsians.info/#contact</loc>
+        <lastmod>2025-01-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>

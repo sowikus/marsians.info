@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "name": "Алексей Кузьмич",
+    "nickname": "KUZMICH",
+    "role": "FIRST5",
+    "position": "F5",
+    "location": "NOMAD",
+    "image": "images/members/f5/kuzmich.png",
+    "imagePosition": "center top"
+  },
+  {
+    "id": 2,
+    "name": "Григорий Медведев",
+    "nickname": "GREGOR",
+    "role": "FIRST5",
+    "position": "F5",
+    "location": "Москва",
+    "image": "images/members/f5/gregor.png",
+    "imagePosition": "center 20%"
+  },
+  {
+    "id": 3,
+    "name": "Андрей Дьяченко",
+    "nickname": "DYAKON",
+    "role": "FIRST5",
+    "position": "F5",
+    "location": "Клин",
+    "image": "images/members/f5/dyakon.png",
+    "imagePosition": "center 15%"
+  },
+  {
+    "id": 4,
+    "name": "Иван Кибардин",
+    "nickname": "KOBA4OK",
+    "role": "FIRST5",
+    "position": "F5",
+    "location": "Москва",
+    "image": "images/members/f5/koba4ok.png",
+    "imagePosition": "center 10%",
+    "imageSize": "105%"
+  },
+  {
+    "id": 5,
+    "name": "Александр Павлов",
+    "nickname": "SANCHES",
+    "role": "MEMBER",
+    "location": "Волжский",
+    "image": "images/members/mem/sanches.png",
+    "imagePosition": "center 20%"
+  },
+  {
+    "id": 6,
+    "name": "Илья Древаль",
+    "nickname": "DREVAL",
+    "role": "MEMBER",
+    "location": "Малаховка",
+    "image": "images/members/mem/dreval.png",
+    "imagePosition": "center 25%"
+  },
+  {
+    "id": 7,
+    "name": "Влад Сычев",
+    "nickname": "MEHAN",
+    "role": "MEMBER",
+    "location": "NOMAD",
+    "image": "images/members/mem/mehan.png",
+    "imagePosition": "center 5%"
+  },
+  {
+    "id": 8,
+    "name": "Александр Соваренко",
+    "nickname": "SOWIKUS",
+    "role": "FIRST5",
+    "position": "F5",
+    "location": "Ольденбург, Германия",
+    "image": "images/members/f5/sowikus.png",
+    "imagePosition": "center 15%"
+  },
+  {
+    "id": 10,
+    "name": "Антон Игнатов",
+    "nickname": "IRON MAN",
+    "role": "MEMBER",
+    "location": "Тобольск",
+    "image": "images/members/mem/ironman.png",
+    "imagePosition": "center 20%",
+    "imageSize": "160%"
+  },
+  {
+    "id": 11,
+    "name": "Кирилл Бирюков",
+    "nickname": "KIRIUS",
+    "role": "MEMBER",
+    "location": "Самара",
+    "image": "images/members/mem/kirius.png",
+    "imagePosition": "center 25%"
+  },
+  {
+    "id": 12,
+    "name": "Андрей Евдокимов",
+    "nickname": "KOSHCHEI",
+    "role": "MEMBER",
+    "location": "Москва",
+    "image": "images/members/mem/koshchei.png",
+    "imagePosition": "center 20%"
+  },
+  {
+    "id": 13,
+    "name": "Денис Анисимов",
+    "nickname": "DRAGON",
+    "role": "MEMBER",
+    "location": "Ярославль",
+    "image": "images/members/mem/dragon.png",
+    "imagePosition": "center 20%"
+  },
+  {
+    "id": 14,
+    "name": "Дмитрий Рубан",
+    "nickname": "SOLO",
+    "role": "MEMBER",
+    "location": "Москва",
+    "image": "images/members/mem/solo.png",
+    "imagePosition": "center 15%"
+  },
+  {
+    "id": 9,
+    "name": "Борис Юров",
+    "nickname": "BORIS",
+    "role": "MEMBER",
+    "location": "Москва",
+    "image": "images/members/mem/boris.jpg",
+    "imagePosition": "center top"
+  }
+]
