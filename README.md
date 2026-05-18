@@ -19,7 +19,7 @@
 ## Структура проекта
 
 ```
-marsians-club/
+marsians.info/
 ├── index.html          # Главная страница
 ├── css/
 │   ├── nasalization.css # Подключение шрифта NASALIZATION
