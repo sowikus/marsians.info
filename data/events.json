@@ -3,21 +3,25 @@
     "id": 1,
     "title": {
       "ru": "👽 МотоВесна",
-      "en": "👽 Moto Spring"
+      "en": "👽 Moto Spring",
+      "de": "👽 Moto Frühling"
     },
     "date": "2026-04-04",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Обязательный выезд клуба на крупнейшую мотовыставку России.",
-      "en": "Mandatory club visit to Russia's largest motorcycle exhibition."
+      "en": "Mandatory club visit to Russia's largest motorcycle exhibition.",
+      "de": "Pflichtbesuch des Klubs auf der größten Motorradausstellung Russlands."
     },
     "image": "images/events/event1.jpg",
     "category": {
       "ru": "Обязательное",
-      "en": "Mandatory"
+      "en": "Mandatory",
+      "de": "Pflicht"
     },
     "url": "https://motospring.ru",
     "mandatory": true
@@ -26,22 +30,26 @@
     "id": 2,
     "title": {
       "ru": "Золото Кагана",
-      "en": "Kagan's Gold"
+      "en": "Kagan's Gold",
+      "de": "Kagans Gold"
     },
     "date": "2026-04-24",
     "dateEnd": "2026-04-28",
     "location": {
       "ru": "Астрахань",
-      "en": "Astrakhan"
+      "en": "Astrakhan",
+      "de": "Astrachan"
     },
     "description": {
       "ru": "Ралли-рейд, этап Чемпионата России по мотоциклетному спорту.",
-      "en": "Rally-raid, Russian Motorcycle Championship stage."
+      "en": "Rally-raid, Russian Motorcycle Championship stage.",
+      "de": "Rally-Raid, Etappe der russischen Motorradmeisterschaft."
     },
     "image": "images/events/event2.jpg",
     "category": {
       "ru": "Ралли-рейд",
-      "en": "Rally-Raid"
+      "en": "Rally-Raid",
+      "de": "Rally-Raid"
     },
     "url": "https://www.zolotokagana.ru"
   },
@@ -49,42 +57,50 @@
     "id": 3,
     "title": {
       "ru": "Открытие сезона",
-      "en": "Season Opening"
+      "en": "Season Opening",
+      "de": "Saisonstart"
     },
     "date": "2026-05-01",
     "location": {
       "ru": "Малаховка",
-      "en": "Malakhovka"
+      "en": "Malakhovka",
+      "de": "Malakhovka"
     },
     "description": {
       "ru": "Открытие мотосезона MARSIANS MCC в Малаховке.",
-      "en": "MARSIANS MCC motorcycle season opening in Malakhovka."
+      "en": "MARSIANS MCC motorcycle season opening in Malakhovka.",
+      "de": "MARSIANS MCC Motorrad Saisonstart in Malakhovka."
     },
     "image": "images/events/event3.jpg",
     "category": {
       "ru": "Встреча",
-      "en": "Meetup"
+      "en": "Meetup",
+      "de": "Treffen"
     }
   },
   {
     "id": 4,
     "title": {
       "ru": "Открытие сезона",
-      "en": "Season Opening"
+      "en": "Season Opening",
+      "de": "Saisonstart"
     },
     "date": "2026-05-01",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Московский мотофестиваль - общегородской мотосбор, проход колонной через город, культурные мероприятия. Дата уточняется.",
-      "en": "Moscow Moto Festival - citywide motorcycle gathering, column ride through the city, cultural events. Date TBA."
+      "en": "Moscow Moto Festival - citywide motorcycle gathering, column ride through the city, cultural events. Date TBA.",
+      "de": "Moskauer Moto Festival - stadtweite Motorradversammlung, Spaltenfahrt durch die Stadt, kulturelle Veranstaltungen. Datum TBA."
     },
     "image": "images/events/event1.jpg",
     "category": {
       "ru": "Фестиваль",
-      "en": "Festival"
+      "en": "Festival",
+      "de": "Festival"
     },
     "url": "https://m.vk.com/club212527438"
   },
@@ -92,21 +108,25 @@
     "id": 5,
     "title": {
       "ru": "👽 DEN Memory Run",
-      "en": "👽 DEN Memory Run"
+      "en": "👽 DEN Memory Run",
+      "de": "👽 DEN Memory Run"
     },
     "date": "2026-05-16",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Памятный мотопробег в честь нашего брата Den.",
-      "en": "Memorial ride in honor of our brother Den."
+      "en": "Memorial ride in honor of our brother Den.",
+      "de": "Gedenkfahrt zu Ehren unseres Bruders Den."
     },
     "image": "images/events/event2.jpg",
     "category": {
       "ru": "Обязательное",
-      "en": "Mandatory"
+      "en": "Mandatory",
+      "de": "Pflicht"
     },
     "mandatory": true
   },
@@ -114,7 +134,8 @@
     "id": 6,
     "title": {
       "ru": "РМЦ - 1 этап",
-      "en": "RMC - Stage 1"
+      "en": "RMC - Stage 1",
+      "de": "RMT - Etappe 1"
     },
     "date": "2026-05-30",
     "dateEnd": "2026-05-31",
@@ -122,16 +143,19 @@
     "dateAltEnd": "2026-05-07",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Ралли МотоЦунами - дорожное ралли для мотоциклов. Основная дата 30-31 мая, запасная 6-7 мая.",
-      "en": "Rally MotoTsunami - road rally for motorcycles. Main date May 30-31, backup May 6-7."
+      "en": "Rally MotoTsunami - road rally for motorcycles. Main date May 30-31, backup May 6-7.",
+      "de": "Rally MotoTsunami - Straßenrallye für Motorräder. Hauptdatum 30. bis 31. Mai, Reservetermin 6. bis 7. Mai."
     },
     "image": "images/events/event3.jpg",
     "category": {
       "ru": "Дорожное ралли",
-      "en": "Road Rally"
+      "en": "Road Rally",
+      "de": "Straßenrallye"
     },
     "url": "https://www.motorallycup.ru"
   },
@@ -139,21 +163,25 @@
     "id": 7,
     "title": {
       "ru": "МотоРодео - 1 этап",
-      "en": "Moto Rodeo - Stage 1"
+      "en": "Moto Rodeo - Stage 1",
+      "de": "Moto Rodeo - Etappe 1"
     },
     "date": "2026-06-01",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Первый этап соревнований по мотородео.",
-      "en": "First stage of moto rodeo competition."
+      "en": "First stage of moto rodeo competition.",
+      "de": "Erste Etappe des Moto-Rodeo-Wettbewerbs."
     },
     "image": "images/events/event1.jpg",
     "category": {
       "ru": "Соревнования",
-      "en": "Competition"
+      "en": "Competition",
+      "de": "Wettbewerb"
     },
     "url": "https://vk.ru/moto_rodeo"
   },
@@ -161,29 +189,34 @@
     "id": 8,
     "title": {
       "ru": "Фестиваль Движение",
-      "en": "Movement Festival"
+      "en": "Movement Festival",
+      "de": "Festival Bewegung"
     },
     "date": "2026-06-05",
     "dateEnd": "2026-06-07",
     "location": {
       "ru": "Екатеринбург",
-      "en": "Yekaterinburg"
+      "en": "Yekaterinburg",
+      "de": "Jekaterinburg"
     },
     "description": {
       "ru": "Крупнейший мотофестиваль на Урале с участием байкеров со всей России.",
-      "en": "The largest motorcycle festival in the Urals with bikers from all over Russia."
+      "en": "The largest motorcycle festival in the Urals with bikers from all over Russia.",
+      "de": "Das größte Motorradfestival in den Urals mit Bikern aus ganz Russland."
     },
     "image": "images/events/event2.jpg",
     "category": {
       "ru": "Фестиваль",
-      "en": "Festival"
+      "en": "Festival",
+      "de": "Festival"
     }
   },
   {
     "id": 9,
     "title": {
       "ru": "РМЦ - 2 этап",
-      "en": "RMC - Stage 2"
+      "en": "RMC - Stage 2",
+      "de": "RMT - Etappe 2"
     },
     "date": "2026-07-04",
     "dateEnd": "2026-07-05",
@@ -191,16 +224,19 @@
     "dateAltEnd": "2026-07-12",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Ралли МотоЦунами - дорожное ралли для мотоциклов. Основная дата 4-5 июля, запасная 11-12 июля.",
-      "en": "Rally MotoTsunami - road rally for motorcycles. Main date July 4-5, backup July 11-12."
+      "en": "Rally MotoTsunami - road rally for motorcycles. Main date July 4-5, backup July 11-12.",
+      "de": "Rally MotoTsunami - Straßenrallye für Motorräder. Hauptdatum 4. bis 5. Juli, Reservetermin 11. bis 12. Juli."
     },
     "image": "images/events/event3.jpg",
     "category": {
       "ru": "Дорожное ралли",
-      "en": "Road Rally"
+      "en": "Road Rally",
+      "de": "Straßenrallye"
     },
     "url": "https://www.motorallycup.ru"
   },
@@ -208,22 +244,26 @@
     "id": 10,
     "title": {
       "ru": "👽 7th MARSIANS Birthday Week",
-      "en": "👽 7th MARSIANS Birthday Week"
+      "en": "👽 7th MARSIANS Birthday Week",
+      "de": "👽 7. MARSIANS Geburtstagswoche"
     },
     "date": "2026-07-13",
     "dateEnd": "2026-07-19",
     "location": {
       "ru": "TBA",
-      "en": "TBA"
+      "en": "TBA",
+      "de": "TBA"
     },
     "description": {
       "ru": "Неделя празднования 7-летия клуба MARSIANS MCC. Обязательное мероприятие для всех членов клуба!",
-      "en": "Week-long celebration of MARSIANS MCC 7th anniversary. Mandatory event for all club members!"
+      "en": "Week-long celebration of MARSIANS MCC 7th anniversary. Mandatory event for all club members!",
+      "de": "Wochenlange Feier der 7. Jahrestag des MARSIANS MCC. Obligatorisches Ereignis für alle Clubmitglieder!"
     },
     "image": "images/events/event1.jpg",
     "category": {
       "ru": "Обязательное",
-      "en": "Mandatory"
+      "en": "Mandatory",
+      "de": "Pflicht"
     },
     "mandatory": true
   },
@@ -231,21 +271,25 @@
     "id": 11,
     "title": {
       "ru": "МотоРодео - 2 этап",
-      "en": "Moto Rodeo - Stage 2"
+      "en": "Moto Rodeo - Stage 2",
+      "de": "Moto Rodeo - Etappe 2"
     },
     "date": "2026-07-20",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Второй этап соревнований по мотородео.",
-      "en": "Second stage of moto rodeo competition."
+      "en": "Second stage of moto rodeo competition.",
+      "de": "Zweite Etappe des Moto-Rodeo-Wettbewerbs."
     },
     "image": "images/events/event2.jpg",
     "category": {
       "ru": "Соревнования",
-      "en": "Competition"
+      "en": "Competition",
+      "de": "Wettbewerb"
     },
     "url": "https://vk.ru/moto_rodeo"
   },
@@ -253,7 +297,8 @@
     "id": 12,
     "title": {
       "ru": "РМЦ - 3 этап (Финал)",
-      "en": "RMC - Stage 3 (Final)"
+      "en": "RMC - Stage 3 (Final)",
+      "de": "RMT - Etappe 3 (Finale)"
     },
     "date": "2026-08-15",
     "dateEnd": "2026-08-16",
@@ -261,16 +306,19 @@
     "dateAltEnd": "2026-08-23",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Ралли МотоЦунами - финальный этап дорожного ралли. Основная дата 15-16 августа, запасная 22-23 августа.",
-      "en": "Rally MotoTsunami - final stage of road rally. Main date August 15-16, backup August 22-23."
+      "en": "Rally MotoTsunami - final stage of road rally. Main date August 15-16, backup August 22-23.",
+      "de": "Rally MotoTsunami - finale Etappe der Straßenrallye. Hauptdatum 15. bis 16. August, Reservetermin 22. bis 23. August."
     },
     "image": "images/events/event3.jpg",
     "category": {
       "ru": "Дорожное ралли",
-      "en": "Road Rally"
+      "en": "Road Rally",
+      "de": "Straßenrallye"
     },
     "url": "https://www.motorallycup.ru"
   },
@@ -278,21 +326,25 @@
     "id": 13,
     "title": {
       "ru": "👽 B.B.Fest",
-      "en": "👽 B.B.Fest"
+      "en": "👽 B.B.Fest",
+      "de": "👽 B.B.Fest"
     },
     "date": "2026-08-23",
     "location": {
       "ru": "Бор, МО",
-      "en": "Bor, Moscow Region"
+      "en": "Bor, Moscow Region",
+      "de": "Bor, Moskauer Region"
     },
     "description": {
       "ru": "Байкерский фестиваль в Подмосковье. Обязательный выезд клуба.",
-      "en": "Biker festival in Moscow Region. Mandatory club attendance."
+      "en": "Biker festival in Moscow Region. Mandatory club attendance.",
+      "de": "Biker-Festival in der Moskauer Region. Obligatorischer Clubbesuch."
     },
     "image": "images/events/event1.jpg",
     "category": {
       "ru": "Обязательное",
-      "en": "Mandatory"
+      "en": "Mandatory",
+      "de": "Pflicht"
     },
     "mandatory": true
   },
@@ -300,22 +352,26 @@
     "id": 14,
     "title": {
       "ru": "European Bike Week",
-      "en": "European Bike Week"
+      "en": "European Bike Week",
+      "de": "European Bike Week"
     },
     "date": "2026-08-25",
     "dateEnd": "2026-09-05",
     "location": {
       "ru": "Faaker See, Австрия",
-      "en": "Faaker See, Austria"
+      "en": "Faaker See, Austria",
+      "de": "Faaker See, Österreich"
     },
     "description": {
       "ru": "Международный мотопробег на один из крупнейших байк-фестивалей в мире на озере Faaker See. Маршрут: Венгрия → Словакия → Словения → Австрия → Италия → Хорватия.",
-      "en": "International motorcycle rally to one of the world's largest bike festivals at Faaker See lake. Route: Hungary → Slovakia → Slovenia → Austria → Italy → Croatia."
+      "en": "International motorcycle rally to one of the world's largest bike festivals at Faaker See lake. Route: Hungary → Slovakia → Slovenia → Austria → Italy → Croatia.",
+      "de": "Internationaler Motorrad-Rally an einem der größten Bike-Festivals der Welt am Faaker See. Route: Ungarn → Slowakei → Slowenien → Österreich → Italien → Kroatien."
     },
     "image": "images/events/event2.jpg",
     "category": {
       "ru": "Путешествие",
-      "en": "Journey"
+      "en": "Journey",
+      "de": "Reise"
     },
     "url": "https://www.harley-davidson.com/eu/en/content/event-calendar/european-bike-week.html"
   },
@@ -323,21 +379,25 @@
     "id": 15,
     "title": {
       "ru": "МотоРодео - 3 этап",
-      "en": "Moto Rodeo - Stage 3"
+      "en": "Moto Rodeo - Stage 3",
+      "de": "Moto Rodeo - Etappe 3"
     },
     "date": "2026-09-15",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Финальный этап соревнований по мотородео.",
-      "en": "Final stage of moto rodeo competition."
+      "en": "Final stage of moto rodeo competition.",
+      "de": "Finale Etappe des Moto-Rodeo-Wettbewerbs."
     },
     "image": "images/events/event3.jpg",
     "category": {
       "ru": "Соревнования",
-      "en": "Competition"
+      "en": "Competition",
+      "de": "Wettbewerb"
     },
     "url": "https://vk.ru/moto_rodeo"
   },
@@ -345,21 +405,25 @@
     "id": 16,
     "title": {
       "ru": "Закрытие сезона",
-      "en": "Season Closing"
+      "en": "Season Closing",
+      "de": "Saisonabschluss"
     },
     "date": "2026-10-01",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Московский мотофестиваль - общегородской мотосбор, проход колонной через город, культурные мероприятия. Дата уточняется.",
-      "en": "Moscow Moto Festival - citywide motorcycle gathering, column ride through the city, cultural events. Date TBA."
+      "en": "Moscow Moto Festival - citywide motorcycle gathering, column ride through the city, cultural events. Date TBA.",
+      "de": "Moskauer Moto-Festival - stadtweite Motorradversammlung, Spaltenfahrt durch die Stadt, kulturelle Veranstaltungen. Datum TBA."
     },
     "image": "images/events/event1.jpg",
     "category": {
       "ru": "Фестиваль",
-      "en": "Festival"
+      "en": "Festival",
+      "de": "Festival"
     },
     "url": "https://m.vk.com/club212527438"
   },
@@ -367,63 +431,75 @@
     "id": 17,
     "title": {
       "ru": "Эндуро дача STERKH",
-      "en": "STERKH Enduro Dacha"
+      "en": "STERKH Enduro Dacha",
+      "de": "STERKH Enduro Dacha"
     },
     "date": "2026-10-15",
     "location": {
       "ru": "Подмосковье",
-      "en": "Moscow Region"
+      "en": "Moscow Region",
+      "de": "Moskauer Region"
     },
     "description": {
       "ru": "Эндуро покатушки на даче STERKH.",
-      "en": "Enduro rides at STERKH dacha."
+      "en": "Enduro rides at STERKH dacha.",
+      "de": "Enduro-Fahrten auf der STERKH-Dacha."
     },
     "image": "images/events/event2.jpg",
     "category": {
       "ru": "Тренировка",
-      "en": "Training"
+      "en": "Training",
+      "de": "Training"
     }
   },
   {
     "id": 18,
     "title": {
       "ru": "Закрытие сезона",
-      "en": "Season Closing"
+      "en": "Season Closing",
+      "de": "Saisonabschluss"
     },
     "date": "2026-10-31",
     "location": {
       "ru": "Малаховка",
-      "en": "Malakhovka"
+      "en": "Malakhovka",
+      "de": "Malakhovka"
     },
     "description": {
       "ru": "Закрытие мотосезона 2026 в Малаховке.",
-      "en": "Closing of 2026 motorcycle season in Malakhovka."
+      "en": "Closing of 2026 motorcycle season in Malakhovka.",
+      "de": "Abschluss der 2026 Motorrad-Saison in Malakhovka."
     },
     "image": "images/events/event3.jpg",
     "category": {
       "ru": "Встреча",
-      "en": "Meetup"
+      "en": "Meetup",
+      "de": "Treffen"
     }
   },
   {
     "id": 19,
     "title": {
       "ru": "👽 Клубный Новый Год",
-      "en": "👽 Club New Year"
+      "en": "👽 Club New Year",
+      "de": "👽 Club Neujahr"
     },
     "date": "2026-12-31",
     "location": {
       "ru": "Москва",
-      "en": "Moscow"
+      "en": "Moscow",
+      "de": "Moskau"
     },
     "description": {
       "ru": "Новогодняя встреча всех членов клуба MARSIANS MCC. Обязательное мероприятие!",
-      "en": "New Year's meeting of all MARSIANS MCC club members. Mandatory event!"
+      "en": "New Year's meeting of all MARSIANS MCC club members. Mandatory event!",
+      "de": "Neujahrsmittagung aller MARSIANS MCC Club-Mitglieder. Obligatorisches Event!"
     },
     "image": "images/events/event1.jpg",
     "category": {
       "ru": "Обязательное",
-      "en": "Mandatory"
+      "en": "Mandatory",
+      "de": "Pflicht"
     },
     "mandatory": true
   },
@@ -431,21 +507,25 @@
     "id": 20,
     "title": {
       "ru": "👽 Клубный сбор",
-      "en": "👽 Club Gathering"
+      "en": "👽 Club Gathering",
+      "de": "👽 Club Versammlung"
     },
     "date": "2026-12-01",
     "location": {
       "ru": "TBA",
-      "en": "TBA"
+      "en": "TBA",
+      "de": "TBA"
     },
     "description": {
       "ru": "Ежегодный клубный сбор. Место проведения уточняется.",
-      "en": "Annual club gathering. Location to be announced."
+      "en": "Annual club gathering. Location to be announced.",
+      "de": "Jährliche Club-Versammlung. Ort wird bekannt gegeben."
     },
     "image": "images/events/event2.jpg",
     "category": {
       "ru": "Обязательное",
-      "en": "Mandatory"
+      "en": "Mandatory",
+      "de": "Pflicht"
     },
     "mandatory": true
   }
