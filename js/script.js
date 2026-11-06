@@ -100,8 +100,10 @@ function initMap() {
         { lat: 45.0355, lng: 38.9753, title: "Краснодар" },
         { lat: 59.1374, lng: 37.9067, title: "Череповец" },
         { lat: 58.1984, lng: 68.2544, title: "Тобольск" },
+        { lat: 54.9846, lng: 73.3694, title: "Омск" },
 
         // Международные
+        { lat: 53.1169, lng: 7.9693, title: "Шепс, Германия", type: "international" },
         { lat: 53.1435, lng: 8.2146, title: "Олденбург, Германия", type: "international" },
         { lat: 32.6669, lng: -16.9241, title: "Мадейра, Португалия", type: "international" },
         { lat: 54.5808, lng: 16.8619, title: "Устка, Польша", type: "international" },
@@ -122,7 +124,7 @@ function initMap() {
     });
 
     // Черно-белая тема для карты
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key=cb1_2umz_1_79c4cec353a81981a69cb62a', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
         subdomains: 'abcd',
         maxZoom: 19
