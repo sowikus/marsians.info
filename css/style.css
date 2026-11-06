@@ -277,8 +277,10 @@ ul {
 /* Prevent any CSS changes on language switch */
 html[lang="en"] .hero-curved-text text,
 html[lang="ru"] .hero-curved-text text,
+html[lang="de"] .hero-curved-text text,
 html[lang="en"] .hero-curved-text text textPath,
-html[lang="ru"] .hero-curved-text text textPath {
+html[lang="ru"] .hero-curved-text text textPath,
+html[lang="de"] .hero-curved-text text textPath {
     /* Preserve inline attributes, no effects */
 }
 
